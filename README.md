@@ -26,3 +26,8 @@ Falta:
 . Contacto.
 . Responsive design.
 . JavaScript.
+
+.............................................................................................................................
+22/09/2022
+
+Aplico más estilos en el main: bordes a las cards y colores de fondo. También achico el tamaño de la licuadora, elimino un par de imágenes, duplico otras en el HTML. Creo botón de compra en las cards.
